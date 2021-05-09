@@ -1,2 +1,2 @@
 # Finans
- site de uma empresa para promover aplicativo mobile  na atual financeira.
+ site de uma empresa finaceira para promover aplicativo mobile.
